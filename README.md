@@ -1,43 +1,26 @@
 <div align="center">
 
-# Tahfiz Habib
+# Tahfiz Habib
+Full-Stack Developer · 12th Grade Student  
+Building fast, clean, minimal software
 
-Full-Stack Developer · 12th Grade Student
+## Omarchy Themes
+| [Rustleaf](https://github.com/tahfizhabib/omarchy-rustleaf-theme) | [Amberbyte](https://github.com/tahfizhabib/omarchy-amberbyte-theme) | [Artzen](https://github.com/tahfizhabib/omarchy-artzen-theme) | [Crimson](https://github.com/tahfizhabib/omarchy-crimson-theme) | [Cyanyze](https://github.com/tahfizhabib/omarchy-cyanyze-theme) | [Azure](https://github.com/tahfizhabib/omarchy-azure-theme) | [Vurple](https://github.com/tahfizhabib/omarchy-vurple-theme) |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| ![](https://github.com/user-attachments/assets/05fa1914-c349-4ef5-a0aa-b7473ea81360) | ![](https://github.com/user-attachments/assets/7b65061c-bff2-403b-af35-3ed83384853d) | ![](https://github.com/user-attachments/assets/f6c422c1-8904-4ca9-9513-d6724f089559) | ![](https://github.com/user-attachments/assets/30769418-ab0f-4632-b932-37d7948be56b) | ![](https://github.com/user-attachments/assets/303a48b8-eb1e-40b0-8c85-886486896f3a) | ![](https://github.com/user-attachments/assets/314910d9-4e5c-4135-b332-f7cf95cde8a5) | ![](https://github.com/user-attachments/assets/07ae941a-417c-46e9-b374-92011b9cdf47) |
 
-<br>
+## Tech Stack
+<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" style="border-radius:4px;"/></a>
+<a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" style="border-radius:4px;"/></a>
 
-<a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" height="40" alt="Go"/></a>
-<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/></a>
-<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/></a>
-<a href="https://cplusplus.com"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++"/></a>
-<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/></a>
-<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/></a>
-<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/></a>
-<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/></a>
-
-<br>
-<br>
-
-### Projects
-
-[nirihaWM](https://github.com/tahfizhabib/niriha) · 
-[gwfox](https://github.com/tahfizhabib/gwfox-css) · 
-[nvgpu-lite](https://github.com/tahfizhabib/Nvidia-Rebirth) · 
-[emphase-rice](https://github.com/tahfizhabib/emphase-rice)
-
-### Omarchy Themes
-
-[rustleaf](https://github.com/tahfizhabib/omarchy-rustleaf-theme) · 
-[amberbyte](https://github.com/tahfizhabib/omarchy-amberbyte-theme) · 
-[artzen](https://github.com/tahfizhabib/omarchy-artzen-theme) · 
-[cyanyze](https://github.com/tahfizhabib/omarchy-cyanyze-theme) · 
-[crimson](https://github.com/tahfizhabib/omarchy-crimson-theme) · 
-[vurple](https://github.com/tahfizhabib/omarchy-vurple-theme) · 
-[azure](https://github.com/tahfizhabib/omarchy-azure-theme)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tahfizhabib&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&icon_color=8f8f8f&text_color=9f9f9f" alt="stats" height="140px" />
+## GitHub Stars
+[![Total stars](https://img.shields.io/github/stars/tahfizhabib?style=flat-square&label=Stars&color=000000&labelColor=FFFFFF&logo=github&logoColor=FFFFFF)](https://github.com/tahfizhabib)
 
 </div>
