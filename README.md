@@ -8,4 +8,4 @@ Neither a nerd nor a geek, I split time between computers and understanding peop
 
 **more on <a href="https://miqimblog.xyz/" style="text-decoration: none;">miqimblog</a>**
 
-\
+
